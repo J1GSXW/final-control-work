@@ -15,4 +15,17 @@
 }
 
 
+string[] LessThenThreeSymbols(string[] array)
+{
+    string[] newArray = new string[array.Length];
+    for(int i = 0; i < array.Length; i++)
+    {
+        if(array[i].Length <= 3)
+        {
+            newArray[i] = array[i];
+        }
+    }
+    return newArray;
+}
+
 
