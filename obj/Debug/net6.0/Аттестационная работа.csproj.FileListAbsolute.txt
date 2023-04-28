@@ -1,0 +1,15 @@
+D:\Geekbrains\Аттестационная работа\bin\Debug\net6.0\Аттестационная работа.exe
+D:\Geekbrains\Аттестационная работа\bin\Debug\net6.0\Аттестационная работа.deps.json
+D:\Geekbrains\Аттестационная работа\bin\Debug\net6.0\Аттестационная работа.runtimeconfig.json
+D:\Geekbrains\Аттестационная работа\bin\Debug\net6.0\Аттестационная работа.dll
+D:\Geekbrains\Аттестационная работа\bin\Debug\net6.0\Аттестационная работа.pdb
+D:\Geekbrains\Аттестационная работа\obj\Debug\net6.0\Аттестационная работа.csproj.AssemblyReference.cache
+D:\Geekbrains\Аттестационная работа\obj\Debug\net6.0\Аттестационная работа.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\Аттестационная работа\obj\Debug\net6.0\Аттестационная работа.AssemblyInfoInputs.cache
+D:\Geekbrains\Аттестационная работа\obj\Debug\net6.0\Аттестационная работа.AssemblyInfo.cs
+D:\Geekbrains\Аттестационная работа\obj\Debug\net6.0\Аттестационная работа.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Аттестационная работа\obj\Debug\net6.0\Аттестационная работа.dll
+D:\Geekbrains\Аттестационная работа\obj\Debug\net6.0\refint\Аттестационная работа.dll
+D:\Geekbrains\Аттестационная работа\obj\Debug\net6.0\Аттестационная работа.pdb
+D:\Geekbrains\Аттестационная работа\obj\Debug\net6.0\Аттестационная работа.genruntimeconfig.cache
+D:\Geekbrains\Аттестационная работа\obj\Debug\net6.0\ref\Аттестационная работа.dll
